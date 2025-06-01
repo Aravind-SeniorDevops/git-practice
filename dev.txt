@@ -1,2 +1,1 @@
-
-sisnkcm   This is my test stash content
+My new practice git, my new changes testing 
